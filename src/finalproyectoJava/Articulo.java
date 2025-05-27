@@ -5,6 +5,7 @@ public class Articulo {
     String nombre;
     double precio;
 
+    //test Git
     public Articulo(int idParametro, String nombreParametro, double precioParametro) {
         this.id = idParametro;
         this.nombre = nombreParametro;
